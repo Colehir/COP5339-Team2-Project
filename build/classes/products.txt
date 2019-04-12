@@ -1,9 +1,9 @@
-66 Car 1500.99 1 Bob 1000.0
 1 Toy 2.0 2 2 1.0
-2 Truck 2000.0 2 2 1000.0
 55 Xbox360 79.99 14 Bob 50.0
 54 XboxOne 300.95 43 Bob 200.0
 4 Productfor 10.0 23 2 9.05
 34 OrangeJuice 1.75 20 Bob 1.0
 3 cookies 0.5 96 Bob 0.25
 5 TV 100.0 24 2 80.0
+2 Truck 2000.0 0 2 1000.0
+66 Car 1500.99 0 Bob 1000.0

@@ -1,7 +1,7 @@
 package Users;
 /** 
  *
- * extends the Customer class
+ * extends the User class
  */
 public class Customer extends User{
     

@@ -67,7 +67,7 @@ public class InventoryModel{
     public double getRevenue() throws FileNotFoundException
     {
         double revenue = 0;
-         File file = new File("sales.txt");
+         File file = new File("src/sales.txt");
          BufferedReader br = new BufferedReader(new FileReader(file)); 
 		  String st;
 		  String[] split;
@@ -91,7 +91,7 @@ public class InventoryModel{
     public double getCosts() throws FileNotFoundException
     {
         double costs = 0;
-         File file = new File("sales.txt");
+         File file = new File("src/sales.txt");
          BufferedReader br = new BufferedReader(new FileReader(file)); 
 		  String st;
 		  String[] split;
